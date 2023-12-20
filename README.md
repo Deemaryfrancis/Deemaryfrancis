@@ -1,5 +1,6 @@
 # Mary_Francis
 
+![IMG_4156-Recovered (1)](https://github.com/Deemaryfrancis/Mary_Francis/assets/105900344/488367d8-2c50-4e54-96d1-6209dc9de43e)
 
 Hello Tech world 👋 I am Mary Donatus Francis
 Passionate about ensuring digital excellence, I am a seasoned Software QA professional specializing in web, mobile, and API testing. With a keen eye for detail, I meticulously review UI designs and execute comprehensive regression, sanity, and smoke tests to guarantee seamless user experiences.
