@@ -12,5 +12,4 @@ Beyond functional testing, I bring a performance-oriented approach, capable of c
 👯 I’m open to collaborating on any software testing product
 👨‍💻 Check out my linkedin [page:](https://www.linkedin.com/in/mary-donatus-francis/) 
 💬 Ask me about Software Testing and Quality Assurance
-📫 How to reach me: minniedion@gmail.com or francisdmary@gmail.com
-
+📫 I can be reached via [Email:](minniedion@gmail.com)
